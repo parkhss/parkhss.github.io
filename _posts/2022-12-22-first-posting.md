@@ -1,6 +1,7 @@
 ---
 
 title:  "Welcome to Jekyll!"
+categories : "coding"
 ---
 
 # Welcome
