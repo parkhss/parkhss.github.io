@@ -1,7 +1,8 @@
 ---
 
 title:  "으악"
-categories : "coding"
+categories : coding
+tag: "python"
 ---
 
 # Welcome
