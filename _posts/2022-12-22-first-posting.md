@@ -1,7 +1,8 @@
 ---
 
 title:  "Welcome to Jekyll!"
-categories : "coding"
+categories : coding
+#tag: "python"
 ---
 
 # Welcome
@@ -11,4 +12,13 @@ categories : "coding"
 I hope you like it!
 
 안녕하세요~
-실시간으로반영이됨?
+
+아래는 파이썬 예제
+
+```python
+과일 = ["사과", "귤", "수박"]
+for 변수 in 과일:
+  print("#####")
+```
+
+실시간으로 반영!
