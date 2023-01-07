@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "PARK HYUNSU"
-  avatar           : "/assets/images/profil/20230101_0229271.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 
+  avatar           : "/assets/images/profile/20230101_0229271.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 
   bio              : "박현수의 블로그입니다"
   location         : "Incheon, South Korea"
   email            : "parkhsboy@tukorea.ac.kr"
