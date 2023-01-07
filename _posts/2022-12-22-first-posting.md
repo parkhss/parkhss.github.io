@@ -9,8 +9,5 @@ title:  "Welcome to Jekyll!"
 
 I hope you like it!
 
-
-
-
-
-![3a88c1ea71ac2179f8c78d8245db0473](D:\깃깃\parkhss.github.io\images\2022-12-22-first\3a88c1ea71ac2179f8c78d8245db0473.jpg)
+안녕하세요~
+실시간으로반영이됨?
