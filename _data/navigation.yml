@@ -13,3 +13,14 @@ main:
 #    url: /collection-archive/
   - title: "Home"
     url: https://parkhss.github.io
+  - title: "Search"
+    url: /search/
+
+
+docs:
+  - title: "대목차"
+    children:
+      - title: "Category"
+        url: /categories/
+      - title: "Tag"
+        url: /tags/
